@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web applications with new technologies. 
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on ...
-- 📫 anybody in the world can reach me through my mail
+- 📫 Reach out to me : mkchoudhary773india@gmail.com
 
 <!---
 choudharymk/choudharymk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
